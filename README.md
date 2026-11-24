@@ -1,16 +1,15 @@
 # my_to_do_app
 
-A new Flutter project.
+A Daily Planner Flutter application built with Flutter, Material 3, and Hive database for fast local persistence.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a daily planner Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Features
+- Intro screen with clean Material 3 design
+- Task management (add, complete/strike-through, delete tasks)
+- Persistent local storage using Hive and `hive_flutter`
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
